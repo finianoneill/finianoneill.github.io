@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-05-25T11:19:20-07:00</updated><id>/</id><title>Finian O&#39;Neill</title><subtitle>Hi! My name is Finian O&#39;Neill and I am a data scientist working in the Biotech industry.</subtitle><entry><title>Halve Jekyll Theme</title><link href="/halve-theme/" rel="alternate" type="text/html" title="Halve Jekyll Theme" /><published>2016-05-29T00:00:00-07:00</published><updated>2016-05-29T00:00:00-07:00</updated><id>/halve-theme</id><content type="html" xml:base="/halve-theme/">&lt;p&gt;&lt;a href=&quot;/images/halve-home-image.png&quot;&gt;&lt;img src=&quot;/images/halve-home-image.png&quot; alt=&quot;Home Page of Halve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://finianoneill.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://finianoneill.github.io//" rel="alternate" type="text/html" /><updated>2019-05-27T19:51:31-07:00</updated><id>https://finianoneill.github.io//</id><title>Finian O&#39;Neill</title><subtitle>Hi! My name is Finian O&#39;Neill and I am a data scientist working in the Biotech industry.</subtitle><entry><title>Halve Jekyll Theme</title><link href="https://finianoneill.github.io//halve-theme/" rel="alternate" type="text/html" title="Halve Jekyll Theme" /><published>2016-05-29T00:00:00-07:00</published><updated>2016-05-29T00:00:00-07:00</updated><id>https://finianoneill.github.io//halve-theme</id><content type="html" xml:base="https://finianoneill.github.io//halve-theme/">&lt;p&gt;&lt;a href=&quot;https://finianoneill.github.io//images/halve-home-image.png&quot;&gt;&lt;img src=&quot;https://finianoneill.github.io//images/halve-home-image.png&quot; alt=&quot;Home Page of Halve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Halve&lt;/b&gt; is a stylish, two-column jekyll theme.&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -27,22 +27,22 @@
 
 &lt;figure class=&quot;third&quot;&gt;
     
-    &lt;a href=&quot;/images/halve-home-image.png&quot;&gt;&lt;img src=&quot;/images/halve-home-image.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://finianoneill.github.io//images/halve-home-image.png&quot;&gt;&lt;img src=&quot;https://finianoneill.github.io//images/halve-home-image.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;/images/post-image-halve-1.png&quot;&gt;&lt;img src=&quot;/images/post-image-halve-1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://finianoneill.github.io//images/post-image-halve-1.png&quot;&gt;&lt;img src=&quot;https://finianoneill.github.io//images/post-image-halve-1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;/images/post-image-halve-2.png&quot;&gt;&lt;img src=&quot;/images/post-image-halve-2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://finianoneill.github.io//images/post-image-halve-2.png&quot;&gt;&lt;img src=&quot;https://finianoneill.github.io//images/post-image-halve-2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;Screenshots of Halve Theme&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure class=&quot;third&quot;&gt;
     
-    &lt;a href=&quot;/images/post-image-halve-3.png&quot;&gt;&lt;img src=&quot;/images/post-image-halve-3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://finianoneill.github.io//images/post-image-halve-3.png&quot;&gt;&lt;img src=&quot;https://finianoneill.github.io//images/post-image-halve-3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;/images/post-image-halve-6.png&quot;&gt;&lt;img src=&quot;/images/post-image-halve-6.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://finianoneill.github.io//images/post-image-halve-6.png&quot;&gt;&lt;img src=&quot;https://finianoneill.github.io//images/post-image-halve-6.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
-    &lt;a href=&quot;/images/post-image-halve-4.png&quot;&gt;&lt;img src=&quot;/images/post-image-halve-4.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://finianoneill.github.io//images/post-image-halve-4.png&quot;&gt;&lt;img src=&quot;https://finianoneill.github.io//images/post-image-halve-4.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;Mobile view of Halve Theme&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -146,7 +146,7 @@ image: http://example.com/some-image.png
 &lt;/div&gt;
 &lt;p&gt;This also will be used for twitter card:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/post-image-halve-5.png&quot; alt=&quot;Halve Twitter Card&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://finianoneill.github.io//images/post-image-halve-5.png&quot; alt=&quot;Halve Twitter Card&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
